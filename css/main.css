@@ -1,0 +1,12 @@
+.topnav {
+    background-color: firebrick;
+}
+.topnav-a { 
+    float: left;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 14px 16px;
+    color: inherit;
+
+}
