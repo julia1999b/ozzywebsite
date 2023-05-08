@@ -36,6 +36,10 @@ header {
     border: none;
     width: 350px;
 }
+.homepage-images-group{
+    height: 200px;
+    width: 400px;
+}
 
 .homepage-body {
     text-align: center;
@@ -60,4 +64,8 @@ p{
 .footer-img {
     width: auto;
     height: 30px;
+}
+.vidframes{
+    width: 1080px;
+    height: 720px;
 }
