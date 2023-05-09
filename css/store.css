@@ -1,0 +1,18 @@
+div.store img{
+    height: 360px;
+    max-width: fit-content;
+    object-fit: scale-down;
+
+}
+div.store button{
+    width: 150px;
+    text-align: center;
+}
+
+div.row
+{
+    justify-content: center;
+}
+div button {
+    float: right;
+}
