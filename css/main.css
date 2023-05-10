@@ -2,6 +2,10 @@
     font-family: "myfont";
     src: url("../fonts/OldeEnglish.ttf");
 }
+@font-face {
+    font-family: "myfont2";
+    src: url("../fonts/chubgothic_1.ttf");
+}
 
 .custom-nav-color {
     background-color: black;
@@ -59,6 +63,7 @@ body {
 p{
     text-align: justify;
     text-justify: inter-word;
+    font-family: "myfont2";
 }
 
 .footer-img {
