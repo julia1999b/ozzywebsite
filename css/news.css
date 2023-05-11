@@ -4,10 +4,11 @@
    
 }
 .news-small-img{
-    height: 150px;
+    max-height:200px ;
     width: 150px;
 }
 .news-small-img2{
-    height: 250px;
-    width: 250px;
+    max-height: 250px;
+    min-height: 100px;
+    height: auto;
 }
